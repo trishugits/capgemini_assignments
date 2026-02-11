@@ -1,4 +1,4 @@
-package CapgeminiTraining;
+package CapgeminiTraining.day1;
 
 import java.util.Scanner;
 

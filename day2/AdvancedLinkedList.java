@@ -1,4 +1,4 @@
-package CapgeminiTraining;
+package CapgeminiTraining.day2;
 
 public class AdvancedLinkedList {
 
