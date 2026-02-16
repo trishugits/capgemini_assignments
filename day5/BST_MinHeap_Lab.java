@@ -27,7 +27,6 @@ class BST {
         } else if (val > root.data) {
             root.right = insert(root.right, val);
         }
-
         return root;
     }
 
